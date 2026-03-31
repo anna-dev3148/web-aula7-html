@@ -1,7 +1,12 @@
-# Exercícios da Aula 6 de Desenvolvimento Web I - ADS
+# Exercícios da Aula 7 de Desenvolvimento Web I - ADS
 
-## html_aula5_exe1.html
-- Link: [html_aula5_exe1.html]()
+## <span class="material-symbols-outlined">
+check
+</span>exer1.html
+- Link: [exer1.html]()
   
-## html_aula5_exe2.html
-- Link: [html_aula5_exe2.html]()
+## exer2.html
+- Link: [exer2.html]()
+
+## exer3.html
+- Link: [exer3.html]()
